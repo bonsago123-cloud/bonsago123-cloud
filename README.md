@@ -14,6 +14,6 @@
 ![Security](https://img.shields.io/badge/Security-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 
-##목표
+## 목표
 
 AI 비롯한 사이버 공격을 막을 수 있는 개발자가 되는 것
